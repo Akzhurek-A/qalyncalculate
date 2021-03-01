@@ -1,0 +1,63 @@
+body{
+     background-image: url("1.jpg");
+     background-size: cover;
+     background-position: center center; 
+  background-attachment: fixed; 
+  background-repeat: no-repeat
+}
+
+  h1{
+      color: #f3ebe4;
+      font-family: 'Brygada 1918', serif;
+      padding-left: 60px;
+  }
+  #form{
+      padding-left: 50px;
+  }
+.inputtext{
+    color:#f3ebe4;
+    font-size: larger;
+}
+.login-box {
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    width: 400px;
+    padding: 20px;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+  }
+option{
+    text-emphasis-color: ;
+}
+
+.optiontext{
+    color: #f3ebe4 ;
+    font-family: 'Brygada 1918', serif;
+    
+}
+.droptext{
+    color: #674840;
+    font-family: 'Domine', serif;
+}
+
+
+.btn {
+    font-size: larger;
+    background-color:#c4a99b ;
+    text-decoration: none;
+    color: #674840;
+    border: none;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .btn:hover {
+    box-shadow: 1px 1px 25px 10px rgba(186, 189, 21, 0.212);
+  }
+  
+
+ 
